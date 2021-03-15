@@ -4,7 +4,7 @@
 int main()
 {
     int i,j,n,k;
-    scanf("%d", &n);
+    scanf("%ld", &n);
     char str[n][1000],temp[1000];
     for(i=0; i<n; i++)
     {
